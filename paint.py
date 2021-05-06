@@ -51,7 +51,7 @@ def rectangle(start, end):
     for count in range(2):
         forward(end.x - start.x)
         left(90)
-        forward((end.x-start.x)/2)
+        forward((end.y-start.y))
         left(90)
 
     end_fill()
