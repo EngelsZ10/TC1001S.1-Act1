@@ -5,6 +5,7 @@ Actividad 1. Juego Pintando: modificamos el script paint.py del paquete freegame
   -  Dibujar un círculo 
   -  Completar el rectángulo
   -  Completar el triángulo 
+ 
  Integrantes: 
  - Engels Emiliano Miranda Palacios A01423398
  - Ronaldo Jesús Ruíz Álvarez A01424337
