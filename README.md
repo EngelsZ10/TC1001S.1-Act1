@@ -15,8 +15,14 @@ Log de Ronaldo:
 
 De la línea 44 a la 58, agregué una porción de código que nos ayudará a la creación del rectángulo
 donde se creó un for repetido dos veces para que en ese mismo se dibujara un lado de la base y otro 
-de la altura
+de la altura.
 
 De la línea 59 a la 71, se creó la función de dibujar un triángulo, utilizando unas variables similares
 a las demás funciones pero con un for repetido 3 veces y que la flecha de una vuelta de 120 grados a la 
 izquierda para que de esta manera complete el dibujo del triángulo.
+
+Log Emiliano:
+
+De las lineas 38 a 42 mueve el cursor (del dibujo) al centro entre el punto start y el punto end, calcula `r` como la distancia entre start y end para dibujar un circulo de diametro `r` usando la funcion `dot(r)`.
+
+En la linea 98 cambia el atributo color a naranja cuando el usuario tecleas *sift + o*.
