@@ -1,4 +1,4 @@
-# TC1001S.1-Act1
+# TC1001S.1.Act1
 Actividad 1. Juego Pintando: modificamos el script paint.py del paquete freegames de python para agregar:
 - Un color nuevo (naranja)
 - Funcionalides para: 
